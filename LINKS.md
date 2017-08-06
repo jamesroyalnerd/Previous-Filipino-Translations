@@ -1,4 +1,5 @@
 # Previous-Filipino-Translations
+<a href="http://imgur.com/WSwJGG6"><img src="http://i.imgur.com/WSwJGG6.jpg" title="source: imgur.com" /></a>
 
 Profile Link: https://bitcointalk.org/index.php?action=profile;u=950662
 
@@ -6,7 +7,7 @@ julerz12 of Bitcointalk.org Previous Filipino Translation Links
 ----------------------------------------------------------------------
 Announcement & Bounty Threads
 ----------------------------------------------------------------------
-Opus:
+Opus: 
 https://bitcointalk.org/index.php?topic=2011032
 
 Bowhead Health:
