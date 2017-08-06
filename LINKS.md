@@ -4,6 +4,8 @@ Profile Link: https://bitcointalk.org/index.php?action=profile;u=950662
 
 julerz12 of Bitcointalk.org Previous Filipino Translation Links
 ----------------------------------------------------------------------
+Announcement & Bounty Threads
+----------------------------------------------------------------------
 Opus:
 https://bitcointalk.org/index.php?topic=2011032
 
@@ -68,9 +70,8 @@ Marycoin:
 https://bitcointalk.org/index.php?topic=2008031.0
 
 -----------------------------------------------------------------------
-
-Whitepapers:
-
+Whitepapers
+-----------------------------------------------------------------------
 Bowhead Health:
 https://drive.google.com/open?id=0B8PTjAdi9VNPZm1fXzk0U0MxMHc
 
