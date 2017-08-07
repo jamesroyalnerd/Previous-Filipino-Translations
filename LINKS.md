@@ -51,9 +51,9 @@ Announcement & Bounty Threads
 
 <b>Marycoin:</b> <i>Bitcoin Made Cheaper</i><p>https://bitcointalk.org/index.php?topic=2008031.0
 
------------------------------------------------------------------------
+----------------------------------------------------------------------
 Whitepapers
------------------------------------------------------------------------
+----------------------------------------------------------------------
 <p><a href="http://imgur.com/hJQrlVk"><img src="http://i.imgur.com/hJQrlVk.png" title="source: imgur.com" /></a>
 <p><b>Bowhead Health:</b><p>https://drive.google.com/open?id=0B8PTjAdi9VNPZm1fXzk0U0MxMHc
 <p><a href="http://imgur.com/y1q0eOU"><img src="http://i.imgur.com/y1q0eOU.png" title="source: imgur.com" /></a>
