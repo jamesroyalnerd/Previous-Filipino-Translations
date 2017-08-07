@@ -37,9 +37,9 @@ Announcement & Bounty Threads
 
 <b>DeepOnion:</b> <i>TOR Integrated, No ICO/Crowdfund</i><p>https://bitcointalk.org/index.php?topic=2036077
 
-<b>BitClave:</b> <i></i>Decentralized Search<p>https://bitcointalk.org/index.php?topic=2019867
+<b>BitClave:</b> <i>Decentralized Search</i><p>https://bitcointalk.org/index.php?topic=2019867
 
-<b><b>Snapshot:</b> <i>A mobile Camera App backed by Blockchain</i><p>https://bitcointalk.org/index.php?topic=1992035.0
+<b>Snapshot:</b> <i>A mobile Camera App backed by Blockchain</i><p>https://bitcointalk.org/index.php?topic=1992035.0
 
 <b>Neblio:</b> <i>Next Generation Enterprise Blockchain Solutions</i><p>https://bitcointalk.org/index.php?topic=2050754.0
 
