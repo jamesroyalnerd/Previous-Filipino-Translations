@@ -7,86 +7,59 @@ julerz12 of Bitcointalk.org Previous Filipino Translation Links
 ----------------------------------------------------------------------
 Announcement & Bounty Threads
 ----------------------------------------------------------------------
-Opus: 
-https://bitcointalk.org/index.php?topic=2011032
+<b>Opus:</b> <i>Decentralized Music Sharing Platform</i><p>https://bitcointalk.org/index.php?topic=2011032
 
-Bowhead Health:
-https://bitcointalk.org/index.php?topic=1997166.0
+<b>Bowhead Health:</b> <i>First Personalized Health Platform</i><p>>https://bitcointalk.org/index.php?topic=1997166.0
 
-Snapup:
-https://bitcointalk.org/index.php?topic=2054476
+<b>Snapup:</b> <i>A Revolutionary Way to Shop for Premium Products</i><p>https://bitcointalk.org/index.php?topic=2054476
 
-AdShares:
-https://bitcointalk.org/index.php?topic=2019265
+<b>AdShares:</b> <i>P2P market for Programmatic ADS</i><p>https://bitcointalk.org/index.php?topic=2019265
 
-Relest:
-https://bitcointalk.org/index.php?topic=2070806
+<b>Relest:</b> <i>First Real Estate Rental Auction Platform</i><p>https://bitcointalk.org/index.php?topic=2070806
 
-BlockOption:
-https://bitcointalk.org/index.php?topic=2048391
+<b>BlockOption:</b> <i>First Decentralized Binary Options Platform</i><p>https://bitcointalk.org/index.php?topic=2048391
 
-Enigma:
-https://bitcointalk.org/index.php?topic=2068627
+<b>Enigma:</b> <i>Build Your Own Crypto Hedge Fund</i><p>https://bitcointalk.org/index.php?topic=2068627
 
-District0x:
-https://bitcointalk.org/index.php?topic=2014184
+<b>District0x:</b> <i>Network for Decentralized Markets & Communities</i><p>https://bitcointalk.org/index.php?topic=2014184
 
-investFeed:
-https://bitcointalk.org/index.php?topic=2041631
+<b>investFeed:</b> <i>Next-Generation Social Investment Network</i><p>https://bitcointalk.org/index.php?topic=2041631
 
-investFeed (Bounty Thread):
-https://bitcointalk.org/index.php?topic=2043170
+<b>investFeed:</b> <i>(Bounty Thread)</i><p>https://bitcointalk.org/index.php?topic=2043170
 
-Lastwill:
-https://bitcointalk.org/index.php?topic=2060306.0
+<b>Lastwill:</b> <i>Protect your Cryptocurrency</i><p>https://bitcointalk.org/index.php?topic=2060306.0
 
-Lastwill (Bounty Thread):
-https://bitcointalk.org/index.php?topic=2060492
+<b>Lastwill:</b> <i>(Bounty Thread)</i><p>https://bitcointalk.org/index.php?topic=2060492
 
-Cryptogene:
-https://bitcointalk.org/index.php?topic=2063167
+<b>Cryptogene:</b> <i>Blockchain Solutions for Africa</i><p>https://bitcointalk.org/index.php?topic=2063167
 
-Cryptogene (Bounty Thread):
-https://bitcointalk.org/index.php?topic=2064077
+<b><b>Cryptogene:</b> <i>(Bounty Thread)</i><p>https://bitcointalk.org/index.php?topic=2064077
 
-DeepOnion:
-https://bitcointalk.org/index.php?topic=2036077
+<b>DeepOnion:</b> <i>TOR Integrated, No ICO/Crowdfund</i><p>https://bitcointalk.org/index.php?topic=2036077
 
-BitClave:
-https://bitcointalk.org/index.php?topic=2019867
+<b>BitClave:</b> <i></i>Decentralized Search<p>https://bitcointalk.org/index.php?topic=2019867
 
-Snapshot:
-https://bitcointalk.org/index.php?topic=1992035.0
+<b><b>Snapshot:</b> <i>A mobile Camera App backed by Blockchain</i><p>https://bitcointalk.org/index.php?topic=1992035.0
 
-Neblio:
-https://bitcointalk.org/index.php?topic=2050754.0
+<b>Neblio:</b> <i>Next Generation Enterprise Blockchain Solutions</i><p>https://bitcointalk.org/index.php?topic=2050754.0
 
-Monkey Capital:
-https://bitcointalk.org/index.php?topic=2010171
+<b>Monkey Capital:</b> <i>A Decentralized Hedge Fund</i><p>https://bitcointalk.org/index.php?topic=2010171
 
-FT BANK [FTB]:
-https://bitcointalk.org/index.php?topic=2001472.0
+<b>FT BANK [FTB]:</b> <i>Revolutionary Fintech Company</i><p>https://bitcointalk.org/index.php?topic=2001472.0
 
-DigiPulse.io
-https://bitcointalk.org/index.php?topic=2041029
+<b>DigiPulse.io</b> <i>First Digital Asset Inheritance Service</i><p>https://bitcointalk.org/index.php?topic=2041029
 
-Eco Coin:
-https://bitcointalk.org/index.php?topic=1990091
+<b>Eco Coin:</b> <i>The coin for the Invironment</i><p>https://bitcointalk.org/index.php?topic=1990091
 
-Marycoin:
-https://bitcointalk.org/index.php?topic=2008031.0
+<b>Marycoin:</b> <i>Bitcoin Made Cheaper</i><p>https://bitcointalk.org/index.php?topic=2008031.0
 
 -----------------------------------------------------------------------
-Whitepapers
+<b>Whitepapers</b>
 -----------------------------------------------------------------------
-Bowhead Health:
-https://drive.google.com/open?id=0B8PTjAdi9VNPZm1fXzk0U0MxMHc
+<b>Bowhead Health:</b><p>https://drive.google.com/open?id=0B8PTjAdi9VNPZm1fXzk0U0MxMHc
 
-BitClave:
-https://drive.google.com/file/d/0B5JFVPKyT8Usb1hnWlQwWmxLYzg/view?usp=sharing
+<b>BitClave:</b><p>https://drive.google.com/file/d/0B5JFVPKyT8Usb1hnWlQwWmxLYzg/view?usp=sharing
 
-easyMINE:
-https://drive.google.com/file/d/0B5JFVPKyT8UsMzM1ZlUwb29iTk0/view?usp=sharing
+<b>easyMINE:</b><p>https://drive.google.com/file/d/0B5JFVPKyT8UsMzM1ZlUwb29iTk0/view?usp=sharing
 
-Cryptogene:
-https://drive.google.com/file/d/0B5JFVPKyT8UsRHB5SmkwV0ZlSm8/view?usp=sharing
+<b>Cryptogene:</b><p>https://drive.google.com/file/d/0B5JFVPKyT8UsRHB5SmkwV0ZlSm8/view?usp=sharing
