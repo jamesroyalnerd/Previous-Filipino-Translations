@@ -9,8 +9,8 @@ Announcement & Bounty Threads
 ----------------------------------------------------------------------
 <a href="http://imgur.com/fUx7ZWx"><img src="http://i.imgur.com/fUx7ZWx.png" title="source: imgur.com" /></a>
 <b>Opus:</b> <i>Decentralized Music Sharing Platform</i><p>https://bitcointalk.org/index.php?topic=2011032
-<a href="http://imgur.com/hJQrlVk"><img src="http://i.imgur.com/hJQrlVk.png" title="source: imgur.com" /></a>
-<b>Bowhead Health:</b> <i>First Personalized Health Platform</i><p>>https://bitcointalk.org/index.php?topic=1997166.0
+<p><a href="http://imgur.com/hJQrlVk"><img src="http://i.imgur.com/hJQrlVk.png" title="source: imgur.com" /></a>
+<b>Bowhead Health:</b> <i>First Personalized Health Platform</i><p>https://bitcointalk.org/index.php?topic=1997166.0
 
 <b>Snapup:</b> <i>A Revolutionary Way to Shop for Premium Products</i><p>https://bitcointalk.org/index.php?topic=2054476
 
@@ -39,11 +39,11 @@ Announcement & Bounty Threads
 <b>DeepOnion:</b> <i>TOR Integrated, No ICO/Crowdfund</i><p>https://bitcointalk.org/index.php?topic=2036077
 
 <b>BitClave:</b> <i>Decentralized Search</i><p>https://bitcointalk.org/index.php?topic=2019867
-<a href="http://imgur.com/v7RkEGz"><img src="http://i.imgur.com/v7RkEGz.png" title="source: imgur.com" /></a>
+<p><a href="http://imgur.com/v7RkEGz"><img src="http://i.imgur.com/v7RkEGz.png" title="source: imgur.com" /></a>
 <b>Snapshot:</b> <i>A mobile Camera App backed by Blockchain</i><p>https://bitcointalk.org/index.php?topic=1992035.0
 
 <b>Neblio:</b> <i>Next Generation Enterprise Blockchain Solutions</i><p>https://bitcointalk.org/index.php?topic=2050754.0
-<a href="http://imgur.com/On8HvkV"><img src="http://i.imgur.com/On8HvkV.png" title="source: imgur.com" /></a>
+<p><a href="http://imgur.com/On8HvkV"><img src="http://i.imgur.com/On8HvkV.png" title="source: imgur.com" /></a>
 <b>Monkey Capital:</b> <i>A Decentralized Hedge Fund</i><p>https://bitcointalk.org/index.php?topic=2010171
 
 <b>FT BANK [FTB]:</b> <i>Revolutionary Fintech Company</i><p>https://bitcointalk.org/index.php?topic=2001472.0
