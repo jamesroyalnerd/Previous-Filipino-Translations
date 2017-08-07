@@ -33,7 +33,7 @@ Announcement & Bounty Threads
 
 <b>Cryptogene:</b> <i>Blockchain Solutions for Africa</i><p>https://bitcointalk.org/index.php?topic=2063167
 
-<b><b>Cryptogene:</b> <i>(Bounty Thread)</i><p>https://bitcointalk.org/index.php?topic=2064077
+<b>Cryptogene:</b> <i>(Bounty Thread)</i><p>https://bitcointalk.org/index.php?topic=2064077
 
 <b>DeepOnion:</b> <i>TOR Integrated, No ICO/Crowdfund</i><p>https://bitcointalk.org/index.php?topic=2036077
 
@@ -54,7 +54,7 @@ Announcement & Bounty Threads
 <b>Marycoin:</b> <i>Bitcoin Made Cheaper</i><p>https://bitcointalk.org/index.php?topic=2008031.0
 
 -----------------------------------------------------------------------
-<b>Whitepapers</b>
+Whitepapers
 -----------------------------------------------------------------------
 <b>Bowhead Health:</b><p>https://drive.google.com/open?id=0B8PTjAdi9VNPZm1fXzk0U0MxMHc
 
