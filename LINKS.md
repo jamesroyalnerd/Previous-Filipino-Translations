@@ -25,6 +25,9 @@ https://bitcointalk.org/index.php?topic=2070806
 BlockOption:
 https://bitcointalk.org/index.php?topic=2048391
 
+Enigma:
+https://bitcointalk.org/index.php?topic=2068627
+
 District0x:
 https://bitcointalk.org/index.php?topic=2014184
 
