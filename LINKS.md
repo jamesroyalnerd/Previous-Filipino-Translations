@@ -21,6 +21,7 @@ Announcement & Bounty Threads
 <p><b>BlockOption:</b> <i>First Decentralized Binary Options Platform</i><p>https://bitcointalk.org/index.php?topic=2048391
 <p><a href="http://imgur.com/K3dJaSO"><img src="http://i.imgur.com/K3dJaSO.jpg" title="source: imgur.com" /></a>
 <p><b>Enigma:</b> <i>Build Your Own Crypto Hedge Fund</i><p>https://bitcointalk.org/index.php?topic=2068627
+<p><b>Enigma:</b> <i>(Bounty Thread)</i><p>https://bitcointalk.org/index.php?topic=2073621
 <p><a href="http://imgur.com/gklgcEX"><img src="http://i.imgur.com/gklgcEX.png" title="source: imgur.com" /></a>
 <p><b>District0x:</b> <i>Network for Decentralized Markets & Communities</i><p>https://bitcointalk.org/index.php?topic=2014184
 <p><a href="http://imgur.com/cuS7HrK"><img src="http://i.imgur.com/cuS7HrK.png" title="source: imgur.com" /></a>
@@ -43,6 +44,8 @@ Announcement & Bounty Threads
 <p><a href="http://imgur.com/On8HvkV"><img src="http://i.imgur.com/On8HvkV.png" title="source: imgur.com" /></a>
 <p><b>Monkey Capital:</b> <i>A Decentralized Hedge Fund</i><p>https://bitcointalk.org/index.php?topic=2010171
 
+<b>Lordmancer II:</b> <i>A Mobile MMORPG where Players can Mine Cryptocurrency</i><p>https://bitcointalk.org/index.php?topic=2064416
+
 <b>FT BANK [FTB]:</b> <i>Revolutionary Fintech Company</i><p>https://bitcointalk.org/index.php?topic=2001472.0
 
 <b>DigiPulse.io</b> <i>First Digital Asset Inheritance Service</i><p>https://bitcointalk.org/index.php?topic=2041029
@@ -50,6 +53,10 @@ Announcement & Bounty Threads
 <b>Eco Coin:</b> <i>The coin for the Invironment</i><p>https://bitcointalk.org/index.php?topic=1990091
 
 <b>Marycoin:</b> <i>Bitcoin Made Cheaper</i><p>https://bitcointalk.org/index.php?topic=2008031.0
+
+<b>Lizi Coin:</b> <i>A P2P Asset</i><p>https://bitcoingarden.org/forum/index.php?topic=15675.0
+
+<b>Halfmoon Coin:</b> <i>Scrypt PoW/PoS | DGW 3.0 | Airdrop Distribution</i><p>https://bitcoingarden.org/forum/index.php?topic=15471.0
 
 ----------------------------------------------------------------------
 Whitepapers
