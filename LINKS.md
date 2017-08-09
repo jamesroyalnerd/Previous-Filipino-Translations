@@ -41,6 +41,8 @@ Announcement & Bounty Threads
 <p><b>Snapshot:</b> <i>A mobile Camera App backed by Blockchain</i><p>https://bitcointalk.org/index.php?topic=1992035.0
 <p><a href="http://imgur.com/6qRE9Vz"><img src="http://i.imgur.com/6qRE9Vz.png" title="source: imgur.com" /></a>
 <p><b>Neblio:</b> <i>Next Generation Enterprise Blockchain Solutions</i><p>https://bitcointalk.org/index.php?topic=2050754.0
+<p><a href="http://imgur.com/nTPmKJE"><img src="http://i.imgur.com/nTPmKJE.jpg" title="source: imgur.com" /></a>
+<p><b>Gravio:</b> <i>Everything is connected</i><p>https://bitcointalk.org/index.php?topic=2075897
 <p><a href="http://imgur.com/On8HvkV"><img src="http://i.imgur.com/On8HvkV.png" title="source: imgur.com" /></a>
 <p><b>Monkey Capital:</b> <i>A Decentralized Hedge Fund</i><p>https://bitcointalk.org/index.php?topic=2010171
 
