@@ -33,6 +33,7 @@ Announcement & Bounty Threads
 <p><a href="http://imgur.com/OHNkgvG"><img src="http://i.imgur.com/OHNkgvG.png" title="source: imgur.com" /></a>
 <p><b>Cryptogene:</b> <i>Blockchain Solutions for Africa</i><p>https://bitcointalk.org/index.php?topic=2063167
 <p><b>Cryptogene:</b> <i>(Bounty Thread)</i><p>https://bitcointalk.org/index.php?topic=2064077
+<p><a href="http://imgur.com/KW2FdTl"><img src="http://i.imgur.com/KW2FdTl.jpg" title="source: imgur.com" /></a>
 <p><b>LookRev:</b> <i>Decentralized P2P marketplace VR+Blockchain+Business</i><p>https://bitcointalk.org/index.php?topic=2075013
 <p><b>LookRev:</b> <i>(Bounty Thread)</i><p>https://bitcointalk.org/index.php?topic=2079828
 <p><a href="http://imgur.com/50degAc"><img src="http://i.imgur.com/50degAc.png" title="source: imgur.com" /></a>
