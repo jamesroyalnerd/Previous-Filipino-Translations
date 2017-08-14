@@ -10,32 +10,32 @@ Announcement & Bounty Threads
 <a href="http://imgur.com/fUx7ZWx"><img src="http://i.imgur.com/fUx7ZWx.png" title="source: imgur.com" /></a>
 <b><a href="https://bitcointalk.org/index.php?topic=2011032">Opus:</b> <i>Decentralized Music Sharing Platform</i></a>
 <p><a href="http://imgur.com/hJQrlVk"><img src="http://i.imgur.com/hJQrlVk.png" title="source: imgur.com" /></a>
-<p><b>Bowhead Health:</b> <i>First Personalized Health Platform</i><p>https://bitcointalk.org/index.php?topic=1997166.0
+<a href="https://bitcointalk.org/index.php?topic=1997166.0"><b>Bowhead Health:</b> <i>First Personalized Health Platform</i></a>
 <p><a href="http://imgur.com/ju311m5"><img src="http://i.imgur.com/ju311m5.png" title="source: imgur.com" /></a>
-<p><b>Snapup:</b> <i>A Revolutionary Way to Shop for Premium Products</i><p>https://bitcointalk.org/index.php?topic=2054476
+<a href="https://bitcointalk.org/index.php?topic=2054476"><b>Snapup:</b> <i>A Revolutionary Way to Shop for Premium Products</i></a>
 <p><a href="http://imgur.com/L2FqFuY"><img src="http://i.imgur.com/L2FqFuY.jpg" title="source: imgur.com" /></a>
-<p><b>AdShares:</b> <i>P2P market for Programmatic ADS</i><p>https://bitcointalk.org/index.php?topic=2019265
+<a href="https://bitcointalk.org/index.php?topic=2019265"><b>AdShares:</b> <i>P2P market for Programmatic ADS</i></a>
 <p><a href="http://imgur.com/ovFTq4t"><img src="http://i.imgur.com/ovFTq4t.jpg" title="source: imgur.com" /></a>
-<p><b>Relest:</b> <i>First Real Estate Rental Auction Platform</i><p>https://bitcointalk.org/index.php?topic=2070806
+<a href="https://bitcointalk.org/index.php?topic=2070806><b>Relest:</b> <i>First Real Estate Rental Auction Platform</i></a>
 <p><a href="http://imgur.com/oZUOVXt"><img src="http://i.imgur.com/oZUOVXt.png" title="source: imgur.com" /></a>
-<p><b>BlockOption:</b> <i>First Decentralized Binary Options Platform</i><p>https://bitcointalk.org/index.php?topic=2048391
+<a href="https://bitcointalk.org/index.php?topic=2048391><b>BlockOption:</b> <i>First Decentralized Binary Options Platform</i></a>
 <p><a href="http://imgur.com/K3dJaSO"><img src="http://i.imgur.com/K3dJaSO.jpg" title="source: imgur.com" /></a>
-<p><b>Enigma:</b> <i>Build Your Own Crypto Hedge Fund</i><p>https://bitcointalk.org/index.php?topic=2068627
-<p><b>Enigma:</b> <i>(Bounty Thread)</i><p>https://bitcointalk.org/index.php?topic=2073621
+<a href="https://bitcointalk.org/index.php?topic=2068627><b>Enigma:</b> <i>Build Your Own Crypto Hedge Fund</i></a>
+<p><a href="https://bitcointalk.org/index.php?topic=2073621><b>Enigma:</b> <i>(Bounty Thread)</i></a>
 <p><a href="http://imgur.com/gklgcEX"><img src="http://i.imgur.com/gklgcEX.png" title="source: imgur.com" /></a>
-<p><b>District0x:</b> <i>Network for Decentralized Markets & Communities</i><p>https://bitcointalk.org/index.php?topic=2014184
+<a href="https://bitcointalk.org/index.php?topic=2014184><b>District0x:</b> <i>Network for Decentralized Markets & Communities</i></a>
 <p><a href="http://imgur.com/cuS7HrK"><img src="http://i.imgur.com/cuS7HrK.png" title="source: imgur.com" /></a>
-<p><b>investFeed:</b> <i>Next-Generation Social Investment Network</i><p>https://bitcointalk.org/index.php?topic=2041631
-<p><b>investFeed:</b> <i>(Bounty Thread)</i><p>https://bitcointalk.org/index.php?topic=2043170
+<a href="https://bitcointalk.org/index.php?topic=2041631><b>investFeed:</b> <i>Next-Generation Social Investment Network</i></a>
+<p><a href="https://bitcointalk.org/index.php?topic=2043170><b>investFeed:</b> <i>(Bounty Thread)</i></a>
 <p><a href="http://imgur.com/yhvsmV9"><img src="http://i.imgur.com/yhvsmV9.png" title="source: imgur.com" /></a>
-<p><b>Lastwill:</b> <i>Protect your Cryptocurrency</i><p>https://bitcointalk.org/index.php?topic=2060306.0
-<p><b>Lastwill:</b> <i>(Bounty Thread)</i><p>https://bitcointalk.org/index.php?topic=2060492
+<a href="https://bitcointalk.org/index.php?topic=2060306.0><b>Lastwill:</b> <i>Protect your Cryptocurrency</i></a>
+<p><a href="https://bitcointalk.org/index.php?topic=2060492><b>Lastwill:</b> <i>(Bounty Thread)</i></a>
 <p><a href="http://imgur.com/OHNkgvG"><img src="http://i.imgur.com/OHNkgvG.png" title="source: imgur.com" /></a>
-<p><b>Cryptogene:</b> <i>Blockchain Solutions for Africa</i><p>https://bitcointalk.org/index.php?topic=2063167
-<p><b>Cryptogene:</b> <i>(Bounty Thread)</i><p>https://bitcointalk.org/index.php?topic=2064077
+<a href="https://bitcointalk.org/index.php?topic=2063167><b>Cryptogene:</b> <i>Blockchain Solutions for Africa</i></a>
+<a href="https://bitcointalk.org/index.php?topic=2064077><b>Cryptogene:</b> <i>(Bounty Thread)</i></a>
 <p><a href="http://imgur.com/KW2FdTl"><img src="http://i.imgur.com/KW2FdTl.jpg" title="source: imgur.com" /></a>
-<p><b>LookRev:</b> <i>Decentralized P2P marketplace VR+Blockchain+Business</i><p>https://bitcointalk.org/index.php?topic=2075013
-<p><b>LookRev:</b> <i>(Bounty Thread)</i><p>https://bitcointalk.org/index.php?topic=2079828
+<a href="https://bitcointalk.org/index.php?topic=2075013><b>LookRev:</b> <i>Decentralized P2P marketplace VR+Blockchain+Business</i></a>
+<p><a href="https://bitcointalk.org/index.php?topic=2079828"><b>LookRev:</b> <i>(Bounty Thread)</i></a>
 <p><a href="http://imgur.com/50degAc"><img src="http://i.imgur.com/50degAc.png" title="source: imgur.com" /></a>
 <p><b>DeepOnion:</b> <i>TOR Integrated, No ICO/Crowdfund</i><p>https://bitcointalk.org/index.php?topic=2036077
 <p><a href="http://imgur.com/y1q0eOU"><img src="http://i.imgur.com/y1q0eOU.png" title="source: imgur.com" /></a>
