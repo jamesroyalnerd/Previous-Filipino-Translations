@@ -7,7 +7,7 @@ julerz12 of Bitcointalk.org Previous Filipino Translation Links
 ----------------------------------------------------------------------
 Announcement & Bounty Threads
 ----------------------------------------------------------------------
-<a href="http://imgur.com/fUx7ZWx"><img src="http://i.imgur.com/fUx7ZWx.png" title="source: imgur.com" /></a>
+<a href="https://bitcointalk.org/index.php?topic=2011032"><img src="http://i.imgur.com/fUx7ZWx.png" title="source: imgur.com" /></a>
 <b><a href="https://bitcointalk.org/index.php?topic=2011032">Opus:</b> <i>Decentralized Music Sharing Platform</i></a>
 <p><a href="http://imgur.com/hJQrlVk"><img src="http://i.imgur.com/hJQrlVk.png" title="source: imgur.com" /></a>
 <a href="https://bitcointalk.org/index.php?topic=1997166.0"><b>Bowhead Health:</b> <i>First Personalized Health Platform</i></a>
