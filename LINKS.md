@@ -2,11 +2,11 @@
 <a href="http://imgur.com/WSwJGG6"><img src="http://i.imgur.com/WSwJGG6.jpg" title="source: imgur.com" /></a>
 <p><a href="https://bitcointalk.org/index.php?action=profile;u=950662"><b>Bitcointalk.org Profile Link</b></a>
 <p><a href="https://twitter.com/Julerz5853"><b>Twitter</b></a>
-<p><a href="https://bitcointalk.org/index.php?action=profile;u=950662">julerz12</b></a> of Bitcointalk.org Previous Filipino Translation Links
+<p>href="https://bitcointalk.org/index.php?action=profile;u=950662">julerz12</b></a> of Bitcointalk.org Previous Filipino Translation Links
 ----------------------------------------------------------------------
 Announcement & Bounty Threads
-----------------------------------------------------------------------
-<a href="https://bitcointalk.org/index.php?topic=2011032"><img src="http://i.imgur.com/z1anA5h.png" title="source: imgur.com" /></a>
+-------------------------------------------------------------------
+<p>href="https://bitcointalk.org/index.php?topic=2011032"><img src="http://i.imgur.com/z1anA5h.png" title="source: imgur.com" /></a>
 <a href="https://bitcointalk.org/index.php?topic=2011032"><b>Opus:</b> <i>Decentralized Music Sharing Platform</i></a>
 <p><a href="https://bitcointalk.org/index.php?topic=1997166.0"><img src="http://i.imgur.com/hJQrlVk.png" title="source: imgur.com" /></a>
 <a href="https://bitcointalk.org/index.php?topic=1997166.0"><b>Bowhead Health:</b> <i>First Personalized Health Platform</i></a>
