@@ -4,7 +4,7 @@
 <p><a href="https://twitter.com/Julerz5853"><b>Twitter</b></a>
 <p><a href="https://bitcointalk.org/index.php?action=profile;u=950662">julerz12</b></a> of Bitcointalk.org Previous Filipino Translation Links
 <p>----------------------------------------------------------------------
-<p>Announcement & Bounty Threads
+<p><b>Announcement & Bounty Threads</b>
 <p>-------------------------------------------------------------------
 <p><a href="https://bitcointalk.org/index.php?topic=2011032"><img src="http://i.imgur.com/z1anA5h.png" title="source: imgur.com" /></a>
 <a href="https://bitcointalk.org/index.php?topic=2011032"><b>Opus:</b> <i>Decentralized Music Sharing Platform</i></a>
@@ -69,9 +69,9 @@
 <p><a href="https://bitcoingarden.org/forum/index.php?topic=15675.0"><img src="http://i.imgur.com/zmd2Yr3.png" title="source: imgur.com" /></a>
 <a href="https://bitcoingarden.org/forum/index.php?topic=15675.0"><b>Lizi Coin:</b> <i>A P2P Asset</i></a>
 <p><a href="https://bitcointalk.org/index.php?topic=2008031.0"><b>Marycoin:</b> <i>Bitcoin Made Cheaper</i></a>
-<p><a href="https://bitcoingarden.org/forum/index.php?topic=15471.0"><b>Halfmoon Coin:</b> <i>Scrypt PoW/PoS | DGW 3.0 | Airdrop Distribution</i></a>
+<p><a href="https://bitcoingarden.org/forum/index.php?topic=15471.0"><b>Halfmoon Coin:</b> <i>Scrypt PoW/PoS | DGW 3.0</i></a>
 <p>----------------------------------------------------------------------
-<p>Whitepapers
+<p><b>Whitepapers</b>
 <p>----------------------------------------------------------------------
 <p><a href="http://imgur.com/hJQrlVk"><img src="http://i.imgur.com/hJQrlVk.png" title="source: imgur.com" /></a>
 <p><b>Bowhead Health:</b><p>https://drive.google.com/open?id=0B8PTjAdi9VNPZm1fXzk0U0MxMHc
