@@ -2,8 +2,9 @@
 <a href="http://imgur.com/WSwJGG6"><img src="http://i.imgur.com/WSwJGG6.jpg" title="source: imgur.com" /></a>
 
 Profile Link: https://bitcointalk.org/index.php?action=profile;u=950662
+Twitter: https://twitter.com/Julerz5853
 
-julerz12 of Bitcointalk.org Previous Filipino Translation Links
+<a href="https://bitcointalk.org/index.php?action=profile;u=950662">julerz12</b></a> of Bitcointalk.org Previous Filipino Translation Links
 ----------------------------------------------------------------------
 Announcement & Bounty Threads
 ----------------------------------------------------------------------
