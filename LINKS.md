@@ -67,7 +67,8 @@ Announcement & Bounty Threads
 <a href="https://bitcointalk.org/index.php?topic=2041029"><b>DigiPulse.io</b> <i>First Digital Asset Inheritance Service</i></a>
 <p><a href="https://bitcointalk.org/index.php?topic=1990091"><img src="http://i.imgur.com/Hf2yZbm.png" title="source: imgur.com" /></a>
 <a href="https://bitcointalk.org/index.php?topic=1990091"><b>Eco Coin:</b> <i>The coin for the Invironment</i></a>
-<p><a href="https://bitcoingarden.org/forum/index.php?topic=15675.0"><b>Lizi Coin:</b> <i>A P2P Asset</i></a>
+<p><a href="https://bitcoingarden.org/forum/index.php?topic=15675.0"><img src="http://i.imgur.com/zmd2Yr3.png" title="source: imgur.com" /></a>
+<a href="https://bitcoingarden.org/forum/index.php?topic=15675.0"><b>Lizi Coin:</b> <i>A P2P Asset</i></a>
 <p><a href="https://bitcointalk.org/index.php?topic=2008031.0"><b>Marycoin:</b> <i>Bitcoin Made Cheaper</i></a>
 <p><a href="https://bitcoingarden.org/forum/index.php?topic=15471.0"><b>Halfmoon Coin:</b> <i>Scrypt PoW/PoS | DGW 3.0 | Airdrop Distribution</i></a>
 
