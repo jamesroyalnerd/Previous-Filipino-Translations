@@ -1,9 +1,8 @@
 # Previous-Filipino-Translations
 <a href="http://imgur.com/WSwJGG6"><img src="http://i.imgur.com/WSwJGG6.jpg" title="source: imgur.com" /></a>
-<p><a href="https://bitcointalk.org/index.php?action=profile;u=950662"><b>Profile Link</b></a>
+<p><a href="https://bitcointalk.org/index.php?action=profile;u=950662"><b>Bitcointalk.org Profile Link</b></a>
 <p><a href="https://twitter.com/Julerz5853"><b>Twitter</b></a>
-
-<a href="https://bitcointalk.org/index.php?action=profile;u=950662">julerz12</b></a> of Bitcointalk.org Previous Filipino Translation Links
+<p><a href="https://bitcointalk.org/index.php?action=profile;u=950662">julerz12</b></a> of Bitcointalk.org Previous Filipino Translation Links
 ----------------------------------------------------------------------
 Announcement & Bounty Threads
 ----------------------------------------------------------------------
